@@ -1,0 +1,6 @@
+.sentence {
+    color: blue;
+    font-weight: bolder; 
+    display: flex;
+    justify-content: center
+  }
