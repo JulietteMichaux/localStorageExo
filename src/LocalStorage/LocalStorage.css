@@ -1,6 +1,18 @@
 .sentence {
     color: blue;
     font-weight: bolder; 
+    font-style: oblique;
+    font-size: 50px;
     display: flex;
-    justify-content: center
+    justify-content: center;
+    align-items: flex-end;
   }
+
+.table{
+  color: blueviolet;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-content: flex-end;
+}
+

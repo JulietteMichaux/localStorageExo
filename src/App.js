@@ -4,10 +4,10 @@ import LocalStorage from './LocalStorage/LocalStorage';
 function App() {
 
   const user = {
-    name:'Juliette',
+     name:'Juliette',
     lastname:'Michaux'
-  };
-
+    };
+  
   const userString = JSON.stringify(user);
 
   localStorage.setItem('user', userString);
